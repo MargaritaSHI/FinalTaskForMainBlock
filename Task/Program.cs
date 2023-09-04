@@ -37,7 +37,6 @@ void FillArrayRandom(string[] arr)
 
 void PrintArray(string[] arr)
 {
-    int _ = arr.Length;
     Console.Write("[");
     for (int i = 0; i < size; i++)
     {
